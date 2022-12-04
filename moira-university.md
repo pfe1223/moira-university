@@ -8,22 +8,22 @@ This repo is inspired by a recent [Arx](https://www.twitch.tv/arx_uk) stream in 
 
 * **Flat Bounce** - Throw healing orbs against a flat surface so that you maximize the healing on the bounce back.
 * **Healing Zone** - Similar to a flat bounce, you can throw a healing orb flat against the floor so that it bounces against the ceiling. The short flight path ensures you are almost always getting healing from the orb. This helps you tank damage. Healing zones must be done in a smaller room.
-* Topic 3
+* **Topic 3** - 
 
 ## Fades
 
-* Topic 1
-* Topic 2
-* Topic 3
+* **Topic 1** - 
+* **Topic 2** - 
+* **Topic 3** - 
 
 ## Category 3
 
-* Topic 1
-* Topic 2
-* Topic 3
+* **Topic 1** - 
+* **Topic 2** - 
+* **Topic 3** - 
 
 ## Category 4
 
-* Topic 1
-* Topic 2
-* Topic 3
+* **Topic 1** - 
+* **Topic 2** - 
+* **Topic 3** - 
