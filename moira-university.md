@@ -12,7 +12,7 @@ This repo is inspired by a recent [Arx](https://www.twitch.tv/arx_uk) stream in 
 
 ## Fades
 
-* **Topic 1** - 
+* **Reposition Fade** - Fade to used to reposition yourself within a fight. This fade may help keep you alive, but the goal is to remain engaged in the fight instead of disengaging. [Link](https://www.tiktok.com/@arx_uk/video/7173387435668147462?is_from_webapp=v1&item_id=7173387435668147462) 
 * **Topic 2** - 
 * **Topic 3** - 
 
